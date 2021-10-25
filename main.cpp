@@ -310,7 +310,7 @@ int main(){
     struct node *t1,*t2;
     int n,m;
     int x,pos;
-//    int key1,key2;
+   int key1,key2;
 //    cin>>key1>>key2;
     cout<<"Input the length of list1"<<endl;
     cin>>n;
@@ -320,7 +320,7 @@ int main(){
     for(i=0;i<n;i++){
         cin>>a[i];
     }
-//    cout<<"Input the length of list2"<<endl;
+   cout<<"Input the length of list2"<<endl;
 //    cin>>m;
 //    int b[m];
 //    cout<<"input the elements of list2"<<endl;
